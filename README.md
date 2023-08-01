@@ -12,7 +12,7 @@
 - Project Name: 'Keylogger';
 - Languages: 'Python';
 - Softwares/Work Tools: 'V.S. Code';
-- Resume: Repository with some keyloggers made..;
+- Resume: Only educational and learning content for Cybersecurity knowledge.;
 - Obs: Example;
 - Version: v.1.2.5
 
